@@ -1,4 +1,4 @@
-- 👋 Hej, jestem **enes**!
+# 👋 Hej, jestem **enes**!
 - ❤️ Aktualnie pracuję nad --> enesweb.pl
 - 🌱 Ucze się: HTML, CSS, JS, C++, C#
 # Socialmedia
